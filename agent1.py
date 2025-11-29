@@ -7,7 +7,7 @@ from pydantic import BaseModel, Field
 
 
 client = OpenAI(
-    api_key="AIzaSyBk5E_AtNB56MT9BDHtz2T4D5LGy5TR1y8",
+    api_key="your api key",
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
